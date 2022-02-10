@@ -12,7 +12,7 @@ if (xmlhttp.readyState==4 && xmlhttp.status==200){
 document.write(xmlhttp.responseText);
 }
 }
-xmlhttp.open("GET","https://www.rpp.pe",true);
+xmlhttp.open("GET","https://gruponatividad.com/",true);
 xmlhttp.send();
 }
 ajaxex();
